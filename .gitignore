@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.swp
+.DS_Store
+logs/
+share/
+protected_file/
+nginx_fortress_proxy.conf
