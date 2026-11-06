@@ -108,3 +108,4 @@ ls -al logs/
     [KR] 현재의 100ms 파이썬 폴링 구조에서 eBPF(Extended Berkeley Packet Filter) 모델로 전환하여 커널 시스템 호출(`sys_write`)을 직접 후킹하고, 커널 공간 내에서 악의적인 파일 조작을 원천 차단합니다.
 *   **Fileless Memory Injection Shield:** Integrate CNCF runtime security profilers (e.g., Falco or KubeArmor) to detect and mitigate malicious runtime behaviors violating execution memory space.
     [KR] CNCF 런타임 보안 프로파일러(Falco 또는 KubeArmor 등)를 통합하여 실행 파일 없이 메모리 공간을 직접 변조하는 악의적인 런타임 침투 동작을 탐지하고 무력화합니다.
+<img width="4000" height="3000" alt="6505" src="https://github.com/user-attachments/assets/9257d5e7-530f-43e0-be5d-887572f40963" />
